@@ -1,16 +1,51 @@
-### Hi there 👋
+<img src="https://raw.githubusercontent.com/BEPb/BEPb/76ee0aed4dbe500970522587224fe83728dd1291/assets/Bottom_up.svg" alt="" width="100%">
+<img  src="https://raw.githubusercontent.com/BEPb/BEPb/main/src/header_.png" alt="" width="100%">
+<p align="center"><a  href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Hi+there+%F0%9F%91%8B%2C+I'm+Abdifitah;Welcome+To+My+Profile!;Over+3+years+of+programming+Experience;Always+Learning+New+things;Profesional+Web+Developer;Tabarak+ICT+Member" alt="Typing SVG" /></a></p>
 
-<!--
-**duceysane10/duceysane10** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+<hr>
+<br>
+<p align="left"> <a href="https://twitter.com/duceysane10" target="blank"><img src="https://img.shields.io/twitter/follow/duceysane10?logo=twitter&style=for-the-badge" alt="duceysane10" /></a> </p>
 
-Here are some ideas to get you started:
+- 🔭 I’m currently working on **Eccomerce for Laravel**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 👨‍💻 All of my projects are available at [engduceysane.dct.so](engduceysane.dct.so)
+
+- 📝 I regularly write articles on [engduceysane.dct.so](engduceysane.dct.so)
+
+- 💬 Ask me about **UI/UX Design, Web Development [HTML, CSS, JS] & Laravel**
+
+- 📫 How to reach me **engduceysane10@gmail.com**
+
+- 📄 Know about my experiences [engduceysane.dct.so](engduceysane.dct.so)
+
+- ⚡ Fun fact **proggramin is my hoppy**
+<br>
+<h3 align="left"> >>Connect<< with me:</h3>
+<p align="left">
+<a href="https://twitter.com/duceysane10" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="duceysane10" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/abdifitah yusuf mohamud" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="abdifitah yusuf mohamud" height="30" width="40" /></a>
+<a href="https://stackoverflow.com/users/abdifitah yusuf mohamud" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="abdifitah yusuf mohamud" height="30" width="40" /></a>
+<a href="https://fb.com/abdifitah yusuf mohamud" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="abdifitah yusuf mohamud" height="30" width="40" /></a>
+<a href="https://instagram.com/abdifitah yusuf mohamud" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="abdifitah yusuf mohamud" height="30" width="40" /></a>
+<a href="https://discord.gg/abdifitah yusuf mohamud" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="abdifitah yusuf mohamud" height="30" width="40" /></a>
+</p>
+<br />
+<h3 align="left"> >>Languages and Tools: << </h3>
+<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://laravel.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain-wordmark.svg" alt="laravel" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://www.adobe.com/products/xd.html" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" alt="xd" width="40" height="40"/> </a> </p>
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=duceysane10&show_icons=true&locale=en&layout=compact" alt="duceysane10" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=duceysane10&show_icons=true&locale=en" alt="duceysane10" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=duceysane10&" alt="duceysane10" /></p>
+
+<p align="center" ><img src="https://raw.githubusercontent.com/BEPb/BEPb/76ee0aed4dbe500970522587224fe83728dd1291/profile-3d-contrib/profile-green-animate.svg" alt="" width="100%"></p>
+<h3 align="left"> Watch my contributions get eaten by snake 🐍
+<img src="https://raw.githubusercontent.com/BEPb/BEPb/e47fa610dda3ebf227e7a32e867324f74dc394de/github-contribution-grid-snake.svg" alt="" width="100%">
+</h3>
+<img src="https://raw.githubusercontent.com/amajaying/amajaying/main/Footer.jpg" alt="" width="100%">
+
+
+
+
