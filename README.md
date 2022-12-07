@@ -1,10 +1,10 @@
 <img src="https://raw.githubusercontent.com/BEPb/BEPb/76ee0aed4dbe500970522587224fe83728dd1291/assets/Bottom_up.svg" alt="" width="100%">
 <img  src="https://raw.githubusercontent.com/BEPb/BEPb/main/src/header_.png" alt="" width="100%">
 <p align="center"><a  href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Hi+there+%F0%9F%91%8B%2C+I'm+Abdifitah;Welcome+To+My+Profile!;Over+3+years+of+programming+Experience;Always+Learning+New+things;Profesional+Web+Developer;Tabarak+ICT+Member" alt="Typing SVG" /></a></p>
-
 [![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 <hr>
 <br>
+<img align="right" width="400" src="https://media.tenor.com/BqbIhT4Mb7cAAAAd/programmer-rounded-edges.gif" alt="coding image">
 <p align="left"> <a href="https://twitter.com/duceysane10" target="blank"><img src="https://img.shields.io/twitter/follow/duceysane10?logo=twitter&style=for-the-badge" alt="duceysane10" /></a> </p>
 
 - 🔭 I’m currently working on **Eccomerce for Laravel**
