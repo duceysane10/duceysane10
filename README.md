@@ -1,152 +1,134 @@
 <div align="center">
 
-<img src="https://user-images.githubusercontent.com/74038190/225813702-ad99c9d1-c0cd-4d83-b27b-5868e4785437.gif" width="100%" alt="Animated Header Banner" />
+# 👋 Hey there! I'm Abdifitah Yusuf Mohamud!
 
-# <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"> Hey there! I'm Abdifitah Yusuf Mohamud!
+<a href="https://github.com/duceysane10">
+  <img src="https://github-readme-insight-terminal-asci.vercel.app/svg/neofetch?user=duceysane10&theme=mac&color=1" width="95%" alt="Abdifitah GitHub terminal-style profile" />
+</a>
 
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/duceysane10/duceysane10/output/github-contribution-grid-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/duceysane10/duceysane10/output/github-contribution-grid-snake.svg" />
-    <img alt="GitHub Contribution Snake" src="https://raw.githubusercontent.com/duceysane10/duceysane10/output/github-contribution-grid-snake.svg" width="90%" />
-  </picture>
-</p>
+<br/><br/>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=2EFF2E&center=true&vCenter=true&width=900&lines=Abdifitah+Yusuf+Mohamud+👋;Software+Engineer;Asterisk+IVR+Engineer;Project+Manager;Master's+Degree+in+Project+Management;Builder+of+CaawiyeIVR;Over+7%2B+Years+of+Programming+Experience" alt="Typing Animation" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=23&pause=1100&color=27D84A&center=true&vCenter=true&width=850&lines=Abdifitah+Yusuf+Mohamud;Software+Engineer+%7C+Asterisk+IVR+Engineer;Project+Manager+%7C+Master's+Degree;Creator+of+CaawiyeIVR;Building+Reliable+Software+%26+Call+Center+Systems" alt="Typing roles" />
 
 <p>
-  <a href="https://twitter.com/duceysane10" target="_blank">
-    <img src="https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
-  </a>
-  <a href="mailto:engduceysane10@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge"/>
-  </a>
-  <a href="https://engduceysane.dct.so" target="_blank">
-    <img src="https://img.shields.io/badge/-Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio Badge"/>
-  </a>
+  <a href="https://twitter.com/duceysane10"><img src="https://img.shields.io/badge/TWITTER-1DA1F2?style=for-the-badge&logo=x&logoColor=white" alt="Twitter" /></a>
+  <a href="mailto:engduceysane10@gmail.com"><img src="https://img.shields.io/badge/EMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+  <a href="https://engduceysane.dct.so"><img src="https://img.shields.io/badge/PORTFOLIO-181717?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" /></a>
 </p>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=duceysane10&label=Profile%20views&color=800000&style=flat" alt="duceysane10" />
-  <a href="https://committers.top/somalia.html" target="_blank">
-    <img src="https://img.shields.io/badge/Somalia-GitHub%20Rank-blue?style=flat" alt="Somalia GitHub Rank" />
-  </a>
-</p>
+<img src="https://komarev.com/ghpvc/?username=duceysane10&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
+<a href="https://user-badge.committers.top/somalia/duceysane10"><img src="https://user-badge.committers.top/somalia/duceysane10.svg" alt="Somalia contributor rank, as reported by committers.top" /></a>
 
 ---
 
 ## 💻 About Me 🚀
 
-I'm a **Software Engineer**, **Asterisk IVR Engineer**, and **Project Manager** with strong experience in building scalable digital solutions, telephony systems, and web-based business applications.
+I'm a **Software Engineer**, **Asterisk IVR Engineer**, and **Project Manager** with **7+ years of programming experience** and a **Master's Degree in Project Management**.
 
-I specialize in developing full-stack applications, IVR and call center systems, and managing projects from planning to delivery. I combine technical expertise with leadership and execution to build efficient, reliable, and user-focused solutions.
+I develop full-stack business software, web applications, APIs, and Asterisk-powered telephony solutions. I enjoy bridging software engineering and delivery leadership: turning real operational needs into reliable, maintainable products.
 
-I also built **CaawiyeIVR**, a **call center web application** designed to support communication workflows and IVR-based operations.
-
----
-
-## 🧠 Professional Roles
-
-### 👨‍💻 Software Engineer
-I build web applications, APIs, backend systems, and business platforms with a focus on performance, scalability, and maintainability.
-
-### ☎️ Asterisk IVR Engineer
-I design and develop **Asterisk-based IVR systems**, call routing solutions, telephony integrations, and call center platforms.
-
-### 📋 Project Manager
-I manage software and technology projects with a structured approach backed by my **Master's Degree in Project Management**.
+**Currently focused on:** full-stack applications, Asterisk IVR & call center systems, integrations, and effective technology project delivery.
 
 ---
 
-## 🚀 Featured Project
+## ☎️ Featured Project: CaawiyeIVR
 
-### **CaawiyeIVR**
-A **call center web application** built to streamline IVR operations, agent workflows, and customer communication processes.
+**CaawiyeIVR** is a **call center web application** that I built around my work with **Asterisk and IVR systems**.
 
-**Highlights:**
-- Asterisk-based IVR integration
-- Call center workflow support
-- Web-based management interface
-- Scalable communication solution
+It brings together web application development and telephony engineering to support call center operations and communication workflows.
+
+<img src="https://img.shields.io/badge/ASTERISK-IVR-FF6B35?style=for-the-badge" alt="Asterisk IVR" />
+<img src="https://img.shields.io/badge/CALL_CENTER-WEB_APP-2563EB?style=for-the-badge" alt="Call center web app" />
+<img src="https://img.shields.io/badge/PROJECT-CaawiyeIVR-16A34A?style=for-the-badge" alt="CaawiyeIVR" />
 
 ---
 
 ## 🛠️ Skills and Tools
 
-I have professional experience across **Software Development**, **IVR Systems**, **Backend Engineering**, and **Project Delivery**.
+I work across **Frontend**, **Backend**, **Databases**, **Infrastructure**, and **Telephony**, with project management expertise supporting delivery.
 
-### **Frontend & Backend Development**
+### Frontend & Backend Development
+
 <p align="center">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML5" width="45" height="45"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS3" width="45" height="45"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="45" height="45"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="PHP" width="45" height="45"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain-wordmark.svg" alt="Laravel" width="45" height="45"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="Node.js" width="45" height="45"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="45" height="45"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="45" height="45"/>
+<img src="https://skillicons.dev/icons?i=html,css,js,php,laravel,nodejs,react,bootstrap,python&perline=9" alt="HTML, CSS, JavaScript, PHP, Laravel, Node.js, React, Bootstrap, Python" />
 </p>
 
-### **Database & Infrastructure**
+### IVR, Telephony & Call Center Engineering
+
 <p align="center">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="45" height="45"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="MongoDB" width="45" height="45"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="Docker" width="45" height="45"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux" width="45" height="45"/>
-  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="45" height="45"/>
+<img src="https://img.shields.io/badge/Asterisk-IVR-DB4437?style=for-the-badge" alt="Asterisk" />
+<img src="https://img.shields.io/badge/IVR-Development-0F766E?style=for-the-badge" alt="IVR Development" />
+<img src="https://img.shields.io/badge/Call_Center-Web_Systems-2563EB?style=for-the-badge" alt="Call Center Systems" />
+<img src="https://img.shields.io/badge/Telephony-Integration-7C3AED?style=for-the-badge" alt="Telephony Integration" />
 </p>
 
-### **Design & Productivity**
+### Databases & DevOps
+
 <p align="center">
-  <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="Figma" width="45" height="45"/>
-  <img src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" alt="Adobe XD" width="45" height="45"/>
+<img src="https://skillicons.dev/icons?i=mysql,mongodb,docker,linux,git,github&perline=6" alt="MySQL, MongoDB, Docker, Linux, Git, GitHub" />
 </p>
 
-### **IVR & Telephony**
+### Design & Project Management
+
 <p align="center">
-  <img src="https://img.shields.io/badge/Asterisk-IVR-28a745?style=for-the-badge" alt="Asterisk IVR"/>
-  <img src="https://img.shields.io/badge/Call%20Center-Systems-blue?style=for-the-badge" alt="Call Center Systems"/>
-  <img src="https://img.shields.io/badge/Telephony-Integration-orange?style=for-the-badge" alt="Telephony Integration"/>
+<img src="https://skillicons.dev/icons?i=figma&perline=1" alt="Figma" />
 </p>
+
+**Project planning** · **Delivery management** · **Stakeholder coordination** · **Requirements analysis** · **Technical leadership**
 
 ---
 
 ## 🔥 My GitHub Stats
 
+### Contribution Activity
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=duceysane10&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="duceysane10" />
+<img src="https://github-readme-insight-terminal-asci.vercel.app/svg/graph?user=duceysane10&theme=mac" width="90%" alt="Live terminal-style GitHub contribution graph" />
+</p>
+
+### Contribution History — 3D View
+
+<p align="center">
+<img src="./profile-3d-contrib/profile-night-view.svg" width="90%" alt="3D contribution activity visualization (generated by GitHub Actions)" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=duceysane10&show_icons=true&locale=en&theme=tokyonight" alt="duceysane10" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=duceysane10&show_icons=true&layout=compact&theme=default&hide_border=false" height="170" alt="Top public repository languages" />
+<img src="https://github-readme-stats.vercel.app/api?username=duceysane10&show_icons=true&theme=default&hide_border=false&include_all_commits=true" height="170" alt="GitHub profile statistics" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=duceysane10&theme=tokyonight" alt="duceysane10" />
+<img src="https://streak-stats.demolab.com/?user=duceysane10&theme=default" alt="GitHub contribution streak" />
+</p>
+
+### 🐍 Watch My Contributions Get Eaten!
+
+<p align="center">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/duceysane10/duceysane10/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/duceysane10/duceysane10/output/github-contribution-grid-snake.svg" />
+  <img src="https://raw.githubusercontent.com/duceysane10/duceysane10/output/github-contribution-grid-snake.svg" width="95%" alt="Animated GitHub contribution snake" />
+</picture>
 </p>
 
 ---
 
-## 🌍 Connect With Me
+### 🌍 Somalia GitHub Contribution Ranking
 
-<p align="center">
-  <a href="https://twitter.com/duceysane10" target="_blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="duceysane10" height="30" width="40" />
-  </a>
-  <a href="mailto:engduceysane10@gmail.com" target="_blank">
-    <img align="center" src="https://cdn-icons-png.flaticon.com/512/732/732200.png" alt="email" height="30" width="30" />
-  </a>
-  <a href="https://engduceysane.dct.so" target="_blank">
-    <img align="center" src="https://cdn-icons-png.flaticon.com/512/1006/1006771.png" alt="portfolio" height="30" width="30" />
-  </a>
-</p>
+<a href="https://committers.top/somalia.html"><img src="https://user-badge.committers.top/somalia/duceysane10.svg" alt="Live rank badge for Somalia (may indicate unranked)" /></a>
+
+<sub>Ranking is supplied by the independent committers.top leaderboard, not by GitHub. If not listed, the badge may show “unranked”.</sub>
 
 ---
 
-<p align="center">
-  <img src="https://media.giphy.com/media/LnQjpWaON8nhr20sv9/giphy.gif" width="60" /> 
-  <br>
-  Thanks for visiting my profile — let's build something impactful together.
-</p>
+### 🤝 Let's Connect
+
+I'm interested in software engineering, Asterisk telephony, IVR systems, call center applications, and technology project management.
+
+**[Portfolio](https://engduceysane.dct.so)** · **[GitHub](https://github.com/duceysane10)** · **[Email](mailto:engduceysane10@gmail.com)**
+
+<br/>
+
+**Thanks for visiting my profile!** 🚀
 
 </div>
