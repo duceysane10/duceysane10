@@ -1,52 +1,76 @@
-<img src="https://raw.githubusercontent.com/BEPb/BEPb/76ee0aed4dbe500970522587224fe83728dd1291/assets/Bottom_up.svg" alt="" width="100%">
-<img  src="https://raw.githubusercontent.com/BEPb/BEPb/main/src/header_.png" alt="" width="100%">
-<p align="center"><a  href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Hi+there+%F0%9F%91%8B%2C+I'm+Abdifitah;Welcome+To+My+Profile!;Over+7+years+of+programming+Experience;Always+Learning+New+things;Profesional+Web+Developer;Tabarak+ICT+Member" alt="Typing SVG" /></a></p>
+<div align="center">
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
-<hr>
-<br>
-<img align="right" width="400" src="https://media.tenor.com/BqbIhT4Mb7cAAAAd/programmer-rounded-edges.gif" alt="coding image">
-<p align="left"> <a href="https://twitter.com/duceysane10" target="blank"><img src="https://img.shields.io/twitter/follow/duceysane10?logo=twitter&style=for-the-badge" alt="duceysane10" /></a> </p>
+# Hi, I'm Abdifitah Yusuf Mohamud 👋
 
-- 🔭 I’m currently working on **Saas Web Aplications  for Laravel**
+### Software Engineer | IVR & Telephony Systems Engineer | Project Manager
 
-- 👨‍💻 All of my projects are available at [engduceysane.dct.so](engduceysane.dct.so)
+**Master's Degree in Project Management** · **7+ Years of Programming Experience**
 
-- 📝 I regularly write articles on [engduceysane.dct.so](engduceysane.dct.so)
+I design, build, integrate, and deliver reliable software solutions, from scalable web applications to interactive voice response (IVR) and telecommunications systems. I combine hands-on engineering with project planning, stakeholder collaboration, and delivery management.
 
-- 💬 Ask me about **UI/UX Design, Web Development [HTML, CSS, JS] & Laravel**
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit%20Website-0A66C2?style=for-the-badge&logo=googlechrome&logoColor=white)](https://engduceysane.dct.so)
+[![Email](https://img.shields.io/badge/Email-Contact%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:engduceysane10@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-duceysane10-181717?style=for-the-badge&logo=github)](https://github.com/duceysane10)
 
-- 📫 How to reach me **engduceysane10@gmail.com**
+</div>
 
-- 📄 Know about my experiences [engduceysane.dct.so](engduceysane.dct.so)
+---
 
-- ⚡ Fun fact **proggramin is my hoppy**
-<br>
-<h3 align="left"> >>Connect<< with me:</h3>
-<p align="left">
-<a href="https://twitter.com/duceysane10" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="duceysane10" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/abdifitah yusuf mohamud" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="abdifitah yusuf mohamud" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/abdifitah yusuf mohamud" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="abdifitah yusuf mohamud" height="30" width="40" /></a>
-<a href="https://fb.com/abdifitah yusuf mohamud" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="abdifitah yusuf mohamud" height="30" width="40" /></a>
-<a href="https://instagram.com/abdifitah yusuf mohamud" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="abdifitah yusuf mohamud" height="30" width="40" /></a>
-<a href="https://discord.gg/abdifitah yusuf mohamud" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="abdifitah yusuf mohamud" height="30" width="40" /></a>
-</p>
-<br />
-<h3 align="left"> >>Languages and Tools: << </h3>
-<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://laravel.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain-wordmark.svg" alt="laravel" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://www.adobe.com/products/xd.html" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" alt="xd" width="40" height="40"/> </a> </p>
+## 👨‍💻 About Me
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=duceysane10&show_icons=true&locale=en&layout=compact" alt="duceysane10" /></p>
+- 💻 **Software Engineering:** Full-stack web applications, APIs, system integrations, and SaaS platforms.
+- ☎️ **IVR & Telephony Engineering:** Voice-based customer services, IVR workflows, call routing, and telecommunications integrations.
+- 📋 **Project Management:** Translating business needs into technical requirements, coordinating delivery, managing risks, and supporting cross-functional teams.
+- 🎓 **Education:** Master's Degree in Project Management.
+- 🏢 **Professional affiliation:** Tabaarak ICT.
+- 🌱 **Currently focused on:** Reliable, scalable systems and continuous professional development.
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=duceysane10&show_icons=true&locale=en" alt="duceysane10" /></p>
+## 🛠️ Technical Expertise
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=duceysane10&" alt="duceysane10" /></p>
+| Area | Technologies & Capabilities |
+| --- | --- |
+| **Backend & APIs** | PHP, Laravel, Node.js, REST APIs, system integration |
+| **Frontend** | JavaScript, HTML5, CSS3, Bootstrap |
+| **Databases** | MySQL, MongoDB |
+| **Engineering & Delivery** | Git, Docker, Linux, technical documentation, testing |
+| **UI/UX** | Figma, interface design, usability |
+| **IVR & Telephony** | IVR flow design, call routing, voice application integration, telephony workflows |
+| **Project Management** | Scope and requirements, scheduling, stakeholder communication, risk management, project delivery |
 
-<p align="center" ><img src="https://raw.githubusercontent.com/BEPb/BEPb/76ee0aed4dbe500970522587224fe83728dd1291/profile-3d-contrib/profile-green-animate.svg" alt="" width="100%"></p>
-<h3 align="left"> Watch my contributions get eaten by snake 🐍
-<img src="https://raw.githubusercontent.com/BEPb/BEPb/e47fa610dda3ebf227e7a32e867324f74dc394de/github-contribution-grid-snake.svg" alt="" width="100%">
-</h3>
-<img src="https://raw.githubusercontent.com/amajaying/amajaying/main/Footer.jpg" alt="" width="100%">
+> I use technology to solve practical business problems—and project management principles to deliver solutions effectively.
 
+## 🎯 Areas of Focus
 
+- **Enterprise & SaaS Applications:** Building maintainable business software and dependable service integrations.
+- **IVR & Telecom Solutions:** Designing intuitive voice journeys and integrating customer-facing telephony services.
+- **Software Architecture:** Designing modular, secure, and scalable applications.
+- **Project Delivery:** Aligning technical implementation with business objectives, timelines, and quality expectations.
 
+## 📊 GitHub Activity
 
+<div align="center">
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=duceysane10&show_icons=true&hide_border=true)
+
+![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=duceysane10&layout=compact&hide_border=true)
+
+</div>
+
+<sub>GitHub stats reflect public GitHub activity and may not include private or professional projects.</sub>
+
+## 🤝 Let's Connect
+
+I'm interested in collaborating on impactful software systems, IVR and telecommunications integrations, and technology projects that create measurable business value.
+
+- 🌐 **Portfolio:** [engduceysane.dct.so](https://engduceysane.dct.so)
+- 📧 **Email:** [engduceysane10@gmail.com](mailto:engduceysane10@gmail.com)
+- 💼 **GitHub:** [github.com/duceysane10](https://github.com/duceysane10)
+- 🐦 **X / Twitter:** [@duceysane10](https://twitter.com/duceysane10)
+
+---
+
+<div align="center">
+
+**Engineering dependable solutions. Delivering meaningful projects.**
+
+</div>
